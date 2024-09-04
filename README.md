@@ -41,6 +41,9 @@ This Android application was developed as part of an internship assignment. The 
 - **Image Loading**: Glide
 - **UI Components**: Material Design Components, RecyclerView, SmoothBottomBar
 
+## Demo
+[Demo Apk](https://drive.google.com/file/d/1K-RiqLJBgyio-LpF_OVjDAyLlh2yB4qr/view?usp=sharing)
+
 ## Getting Started
 
 To run this project on your local machine:
